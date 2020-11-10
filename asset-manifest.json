@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.js": "/rx23w_hs3000_demo_app/static/js/main.143206ff.chunk.js",
+    "main.js.map": "/rx23w_hs3000_demo_app/static/js/main.143206ff.chunk.js.map",
+    "runtime-main.js": "/rx23w_hs3000_demo_app/static/js/runtime-main.c2c28f8f.js",
+    "runtime-main.js.map": "/rx23w_hs3000_demo_app/static/js/runtime-main.c2c28f8f.js.map",
+    "static/js/2.376c4105.chunk.js": "/rx23w_hs3000_demo_app/static/js/2.376c4105.chunk.js",
+    "static/js/2.376c4105.chunk.js.map": "/rx23w_hs3000_demo_app/static/js/2.376c4105.chunk.js.map",
+    "index.html": "/rx23w_hs3000_demo_app/index.html",
+    "precache-manifest.f8019508522f387e8b5059f9ab9bac7d.js": "/rx23w_hs3000_demo_app/precache-manifest.f8019508522f387e8b5059f9ab9bac7d.js",
+    "service-worker.js": "/rx23w_hs3000_demo_app/service-worker.js",
+    "static/js/2.376c4105.chunk.js.LICENSE.txt": "/rx23w_hs3000_demo_app/static/js/2.376c4105.chunk.js.LICENSE.txt",
+    "static/media/connect.png": "/rx23w_hs3000_demo_app/static/media/connect.b8a4479e.png",
+    "static/media/electric_fun_normal_speed.gif": "/rx23w_hs3000_demo_app/static/media/electric_fun_normal_speed.4c6ce8de.gif",
+    "static/media/electric_fun_stop.png": "/rx23w_hs3000_demo_app/static/media/electric_fun_stop.be44afbc.png",
+    "static/media/electric_fun_swing.gif": "/rx23w_hs3000_demo_app/static/media/electric_fun_swing.63c63f82.gif",
+    "static/media/indoor_environment.png": "/rx23w_hs3000_demo_app/static/media/indoor_environment.3588c636.png",
+    "static/media/led_control.png": "/rx23w_hs3000_demo_app/static/media/led_control.6f62af63.png",
+    "static/media/vr_result.png": "/rx23w_hs3000_demo_app/static/media/vr_result.4b6fe806.png",
+    "static/media/vr_settings.png": "/rx23w_hs3000_demo_app/static/media/vr_settings.ef163af4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2c28f8f.js",
+    "static/js/2.376c4105.chunk.js",
+    "static/js/main.143206ff.chunk.js"
+  ]
+}
